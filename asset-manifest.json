@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.0567298b.css",
-    "main.js": "/static/js/main.7f59311b.js",
+    "main.css": "/static/css/main.50eb648e.css",
+    "main.js": "/static/js/main.80dc8e74.js",
     "static/media/Gold-Star-PNG-Photos.png": "/static/media/Gold-Star-PNG-Photos.c651165d72ba883aa3bc.png",
     "static/media/Casino.png": "/static/media/Casino.bac7938e62701e2fe552.png",
     "static/media/Roulette.png": "/static/media/Roulette.7aa1463b6bd945d9a7f8.png",
     "static/media/Roulette.webp": "/static/media/Roulette.9772d8089886f0bc098c.webp",
     "static/media/Binance-Coin-BNB-icon.png": "/static/media/Binance-Coin-BNB-icon.12f6ca37a23eaa38e0a3.png",
     "index.html": "/index.html",
-    "main.0567298b.css.map": "/static/css/main.0567298b.css.map",
-    "main.7f59311b.js.map": "/static/js/main.7f59311b.js.map"
+    "main.50eb648e.css.map": "/static/css/main.50eb648e.css.map",
+    "main.80dc8e74.js.map": "/static/js/main.80dc8e74.js.map"
   },
   "entrypoints": [
-    "static/css/main.0567298b.css",
-    "static/js/main.7f59311b.js"
+    "static/css/main.50eb648e.css",
+    "static/js/main.80dc8e74.js"
   ]
 }
